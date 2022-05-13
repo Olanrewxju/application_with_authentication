@@ -1,5 +1,4 @@
-# flutter_application_assessment1
-
+# App with authentication
 A new Flutter project.
 
 ## Getting Started
